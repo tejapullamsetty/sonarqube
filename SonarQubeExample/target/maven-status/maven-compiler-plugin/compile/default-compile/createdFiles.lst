@@ -1,0 +1,3 @@
+com\example\sonareexample\controller\SonarQubeController.class
+com\example\sonareexample\service\SonarQubeService.class
+com\example\sonareexample\SonarQubeExampleApplication.class
